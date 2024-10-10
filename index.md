@@ -11,3 +11,16 @@
 ###### This is an `<h6>` header, which is the smallest
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+```
+$ sudo apt update
+```
+- [x] List syntax is required
+- [x] This item is complete
+- [x] Learn GitHub
+- [ ] This item is not complete
